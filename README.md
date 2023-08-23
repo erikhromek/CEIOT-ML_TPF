@@ -1,6 +1,8 @@
 # CEIOT-ML_TPF
 Trabajo final de ML (CEIoT)
 
+El detalle del trabajo realizado está en el archivo **TPF-v2.ipynb**.
+
 Para correr el proyecto, se debe tener instalado:
 
 - numpy
